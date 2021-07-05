@@ -13,6 +13,7 @@
         <div class="row">
             <div class="col-12 mb-3">
                 <h1>DATA KARYAWAN</h1>
+                <h1>putri setyowati</h1>
             </div>
 
             <div class="container mb-3">
